@@ -1,0 +1,15 @@
+*{
+    background: #000;
+}
+
+.main{
+    border-radius: 6px;
+    box-shadow: none;
+    height: 500px;
+    width: 800px;
+}
+
+.btn{
+    text-align: center;
+    color: aliceblue;
+}
